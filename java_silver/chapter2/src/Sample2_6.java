@@ -14,7 +14,7 @@ public class Sample2_6 {
         array.add("田中");
         String name = array.get(0);
         System.out.println(name + " : " + array.size());
-        
+
     }
 }
 
