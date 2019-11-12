@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/src/Sample2_8.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -23,16 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter2/src/Sample2_9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter2/src/Sample2_10.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -65,8 +56,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="137" />
-    <option name="y" value="281" />
+    <option name="x" value="63" />
+    <option name="y" value="47" />
     <option name="width" value="1180" />
     <option name="height" value="589" />
   </component>
@@ -98,7 +89,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,10 +103,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="アプリケーション.Sample2_8">
-    <configuration name="Sample2_10" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="アプリケーション.Sample2_10">
+    <configuration name="Sample2_10" type="Application" factoryName="アプリケーション" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sample2_10" />
       <module name="chapter2" />
+      <option name="PROGRAM_PARAMETERS" value="tanaka 10 20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,9 +140,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="アプリケーション.Sample2_7" />
+      <item itemvalue="アプリケーション.Sample2_8" />
+      <item itemvalue="アプリケーション.Sample2_4" />
+      <item itemvalue="アプリケーション.Sample2_6" />
+      <item itemvalue="アプリケーション.Sample2_10" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Sample2_10" />
         <item itemvalue="アプリケーション.Sample2_6" />
         <item itemvalue="アプリケーション.Sample2_4" />
       </list>
@@ -170,8 +168,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.25340393" />
@@ -230,13 +227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2/src/Sample2_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/src/Sample2_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -265,6 +255,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/src/Sample2_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
