@@ -41,11 +41,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sample3_12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sample3_13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sample3_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sample3_15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sample3_16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sample3_17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sample3_18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -77,6 +131,12 @@
         <option value="$PROJECT_DIR$/src/Sample3_10.java" />
         <option value="$PROJECT_DIR$/src/Sample3_11.java" />
         <option value="$PROJECT_DIR$/src/Sample3_12.java" />
+        <option value="$PROJECT_DIR$/src/Sample3_13.java" />
+        <option value="$PROJECT_DIR$/src/Sample3_14.java" />
+        <option value="$PROJECT_DIR$/src/Sample3_15.java" />
+        <option value="$PROJECT_DIR$/src/Sample3_16.java" />
+        <option value="$PROJECT_DIR$/src/Sample3_17.java" />
+        <option value="$PROJECT_DIR$/src/Sample3_18.java" />
       </list>
     </option>
   </component>
@@ -91,8 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,10 +163,16 @@
               <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="スクラッチおよびコンソール" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,37 +194,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="アプリケーション.Sample3_12">
-    <configuration name="Sample3_10" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_10" />
+  <component name="RunManager" selected="アプリケーション.Sample3_18">
+    <configuration name="Sample3_14" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_14" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_11" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_11" />
+    <configuration name="Sample3_15" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_15" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_12" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_12" />
+    <configuration name="Sample3_16" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_16" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_8" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_8" />
+    <configuration name="Sample3_17" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_17" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample3_9" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample3_9" />
+    <configuration name="Sample3_18" type="Application" factoryName="アプリケーション" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample3_18" />
       <module name="chapter3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.Sample3_12" />
-        <item itemvalue="アプリケーション.Sample3_11" />
-        <item itemvalue="アプリケーション.Sample3_10" />
-        <item itemvalue="アプリケーション.Sample3_9" />
-        <item itemvalue="アプリケーション.Sample3_8" />
+        <item itemvalue="アプリケーション.Sample3_18" />
+        <item itemvalue="アプリケーション.Sample3_17" />
+        <item itemvalue="アプリケーション.Sample3_16" />
+        <item itemvalue="アプリケーション.Sample3_15" />
+        <item itemvalue="アプリケーション.Sample3_14" />
       </list>
     </recent_temporary>
   </component>
@@ -190,9 +254,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="0" width="1276" height="735" extended-state="1" />
+    <frame x="87" y="0" width="1276" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26069078" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26480263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -332,6 +397,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample3_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample3_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample3_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample3_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample3_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample3_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
