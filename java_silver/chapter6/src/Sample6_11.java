@@ -1,9 +1,9 @@
-interface MyInter1 {
+interface NewInter1 {
     void methodA();
 }
-class Super {
+class Supers {
     void methodB(){ }
 }
-class MyClass extends Super implements MyInter1 {
+class YuimClass extends Supers implements NewInter1 {
     public void methodA(){ }
 }
